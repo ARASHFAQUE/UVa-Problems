@@ -7,6 +7,7 @@ using namespace std;
 #define ll long long int
 #define ull unsigned long long int
 
+/* Bombs! NO they are Mines!! */
 
 #define MX 1005
 
